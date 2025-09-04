@@ -1,6 +1,7 @@
 import { useState } from 'react'
 import Hero from './components/Hero'
 import Service from './components/Service'
+import Destinations from './components/Destinations'
 
 const App = () => {
   
@@ -8,6 +9,7 @@ const App = () => {
     <>
       <Hero />
       <Service />
+      <Destinations />
     </>
   )
 }
