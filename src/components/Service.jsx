@@ -3,8 +3,8 @@ import weather from '../assets/weather.png'
 import plane from '../assets/plane.png'
 import mic from '../assets/mic.png'
 import setting from '../assets/setting.png'
-import rectangle from '../assets/Rectangle.png'
-import Plus from '../assets/Plus.png'
+import rectangle from '../assets/rectangle.png'
+import plus from '../assets/plus.png'
 
 const Service = () => {
   return (
@@ -36,7 +36,7 @@ const Service = () => {
             </div>
             <img src={rectangle} alt='' className='absolute bottom-10 left-72 -z-10'/>
         </div>
-        <img src={Plus} alt='' className='absolute right-10 -z-10' />
+        <img src={plus} alt='' className='absolute right-10 -z-10' />
     </div>
   )
 }
