@@ -1,7 +1,7 @@
 import React from 'react'
 import Navbar from './Navbar'
 import Decore from '../assets/Decore.png'
-import HeroImg from '../assets/HeroImg.png'
+import HeroImg from '../assets/Heroimg.png'
 import redLine from '../assets/redline.png'
 import { Play } from 'lucide-react'
 
