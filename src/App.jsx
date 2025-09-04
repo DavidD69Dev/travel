@@ -5,6 +5,7 @@ import Destinations from './components/Destinations'
 import Trip from './components/Trip'
 import Compagny from './components/Compagny'
 import Subscribe from './components/Subscribe'
+import Footer from './components/Footer'
 
 const App = () => {
   
@@ -16,6 +17,7 @@ const App = () => {
       <Trip />
       <Compagny />
       <Subscribe />
+      <Footer />
     </>
   )
 }
