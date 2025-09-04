@@ -3,7 +3,7 @@ import weather from '../assets/weather.png'
 import plane from '../assets/plane.png'
 import mic from '../assets/mic.png'
 import setting from '../assets/setting.png'
-import rectangle from '../assets/rectangle.png'
+import rectangle from '../assets/Rectangle.png'
 import plus from '../assets/plus.png'
 
 const Service = () => {
