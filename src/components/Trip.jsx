@@ -1,8 +1,8 @@
 import React from "react";
-import destination from "../assets/destination.png"
-import payment from "../assets/payment.png"
-import airport from "../assets/airport.png"
-import trip from "../assets/trip.png"
+import destination from "../assets/destination.png";
+import payment from "../assets/payment.png";
+import airport from "../assets/airport.png";
+import trip from "../assets/trip.png";
 
 const Trip = () => {
   return (
@@ -53,7 +53,7 @@ const Trip = () => {
           </div>
         </div>
         <div className="px-6 md:px-8">
-            <img src={trip} alt="" />
+          <img src={trip} alt="" />
         </div>
       </div>
     </div>
