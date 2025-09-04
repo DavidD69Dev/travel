@@ -7,7 +7,7 @@ const ResponsiveMenu = ({open}) => {
         <img src={Logo} alt='' className='w-[90px]' />
         <nav className='mt-14'>
             <ul className='flex flex-col gap-16 items-start font-semibold text-gray-800 text-2xl'>
-                <li>Destination</li>
+                <li>Destinations</li>
                 <li>Hotels</li>
                 <li>Flights</li>
                 <li>Bookings</li>
