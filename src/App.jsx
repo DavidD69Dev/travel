@@ -4,6 +4,7 @@ import Service from './components/Service'
 import Destinations from './components/Destinations'
 import Trip from './components/Trip'
 import Compagny from './components/Compagny'
+import Subscribe from './components/Subscribe'
 
 const App = () => {
   
@@ -14,6 +15,7 @@ const App = () => {
       <Destinations />
       <Trip />
       <Compagny />
+      <Subscribe />
     </>
   )
 }
